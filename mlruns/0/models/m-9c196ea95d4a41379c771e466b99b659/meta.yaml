@@ -1,0 +1,10 @@
+artifact_location: file:///Users/qasimsmacbook/Desktop/MLops_A01/mlops-assignment-1/mlruns/0/models/m-9c196ea95d4a41379c771e466b99b659/artifacts
+creation_timestamp: 1758201463067
+experiment_id: '0'
+last_updated_timestamp: 1758201466946
+model_id: m-9c196ea95d4a41379c771e466b99b659
+model_type: null
+name: random_forest_pretrained
+source_run_id: 7e4cd89aefdb471a9d3bd4a2142fe861
+status: 2
+status_message: null

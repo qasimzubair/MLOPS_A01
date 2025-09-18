@@ -1,0 +1,10 @@
+artifact_location: file:///Users/qasimsmacbook/Desktop/MLops_A01/mlops-assignment-1/mlruns/0/models/m-7ebb83c055c046e7a04dc488082833cf/artifacts
+creation_timestamp: 1758202070805
+experiment_id: '0'
+last_updated_timestamp: 1758202074524
+model_id: m-7ebb83c055c046e7a04dc488082833cf
+model_type: null
+name: svm_pretrained
+source_run_id: 6712dc4f6ce34ab589f7340d1e356ab2
+status: 2
+status_message: null

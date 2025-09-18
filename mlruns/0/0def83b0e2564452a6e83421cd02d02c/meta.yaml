@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/qasimsmacbook/Desktop/MLops_A01/mlops-assignment-1/mlruns/0/0def83b0e2564452a6e83421cd02d02c/artifacts
+end_time: 1758201375243
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0def83b0e2564452a6e83421cd02d02c
+run_name: SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758201371101
+status: 3
+tags: []
+user_id: qasimsmacbook

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/qasimsmacbook/Desktop/MLops_A01/mlops-assignment-1/mlruns/0/4b5955222b254a249ba8fd436ff9e7b2/artifacts
+end_time: 1758201564672
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b5955222b254a249ba8fd436ff9e7b2
+run_name: Logistic Regression_pretrained
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758201559264
+status: 3
+tags: []
+user_id: qasimsmacbook

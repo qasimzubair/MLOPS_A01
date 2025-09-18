@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/qasimsmacbook/Desktop/MLops_A01/mlops-assignment-1/mlruns/0/b6e034e07de74ce6a173abe2f38454ec/artifacts
+end_time: 1758202241871
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6e034e07de74ce6a173abe2f38454ec
+run_name: Random Forest_pretrained
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758202237423
+status: 3
+tags: []
+user_id: qasimsmacbook

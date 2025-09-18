@@ -1,0 +1,10 @@
+artifact_location: file:///Users/qasimsmacbook/Desktop/MLops_A01/mlops-assignment-1/mlruns/0/models/m-08dc431869d4450ebcc171f5b82a737f/artifacts
+creation_timestamp: 1758200984117
+experiment_id: '0'
+last_updated_timestamp: 1758200992210
+model_id: m-08dc431869d4450ebcc171f5b82a737f
+model_type: null
+name: logistic_regression
+source_run_id: 71b83fe72c364fd392c2abf59aa29049
+status: 2
+status_message: null
