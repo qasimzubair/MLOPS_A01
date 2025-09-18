@@ -20,8 +20,8 @@ This project demonstrates a complete MLOps workflow for machine learning model d
 ```
 mlops-assignment-1/
 ├── 📄 README.md                    # Project documentation
-├── 📊 data/                        # Dataset storage
-│   └── iris.csv                    # Iris dataset
+├── 📊 data/                        
+│   └── iris.csv                   
 ├── 🤖 models/                      # Trained model artifacts
 │   ├── logistic_regression.joblib
 │   ├── random_forest.joblib
