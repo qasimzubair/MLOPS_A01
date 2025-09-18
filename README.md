@@ -136,6 +136,18 @@ All models are evaluated using standard classification metrics:
 3. **Compare Runs**: Select multiple experiments for side-by-side comparison
 4. **Artifacts**: Download confusion matrices and model files
 
+### MLflow Experiments Dashboard
+![MLflow Experiments View showing 25+ tracked runs with different models](image-2.png)
+*Complete experiment tracking with 25+ runs showing Logistic Regression, Random Forest, and SVM models with performance metrics*
+
+### MLflow Model Metrics
+![MLflow Model Metrics showing perfect accuracy, precision, recall, and F1-score](image-3.png)
+*Detailed model performance metrics with visualized charts for accuracy, precision, recall, and F1-score*
+
+### MLflow Model Registry
+![MLflow Model Registry showing 6 registered models with version management](image-4.png)
+*Model registry with 6 registered models including version control and lifecycle management*
+
 ## 🚀 Production Deployment
 
 The best performing model (SVM) is automatically tagged for production with:
@@ -143,6 +155,13 @@ The best performing model (SVM) is automatically tagged for production with:
 - `model_performance: best_model`
 - `accuracy: 1.0`
 
+### Production Model Deployment
+![Production model tagging in MLflow showing SVM model marked for production](image.png)
+*SVM model tagged for production deployment with performance indicators*
+
+### Model Performance Comparison
+![Model performance comparison showing all three models with 100% accuracy](image-1.png)
+*Side-by-side comparison of all trained models with detailed performance metrics*
 ## 🤝 Contributing
 
 1. Fork the repository
