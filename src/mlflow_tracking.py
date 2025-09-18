@@ -14,7 +14,7 @@ import seaborn as sns
 import os
 import joblib
 
-# Load iris dataset
+
 data_path = '../data/iris.csv'
 if not os.path.exists(data_path):
     iris = datasets.load_iris()
